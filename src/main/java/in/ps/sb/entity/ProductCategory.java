@@ -14,6 +14,7 @@ public enum ProductCategory {
 	CLOTHES(2, List.of("Men", "Women", "Kids"));
 
 	// BEAUTY, HOUSEHOLD, HYGIENE, FOOTWEARS, PERFUMES, FURNITURE;
+	//above categories are to be finetuned and added later
 
 	@Id
 	private final int categoryId;
