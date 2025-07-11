@@ -4,6 +4,6 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 import in.ps.sb.entity.Customer;
 
-public interface ShopbowlCustomerRepo extends JpaRepository<Customer, Integer>{
+public interface SbCustomerRepo extends JpaRepository<Customer, Integer>{
 
 }
